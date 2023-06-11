@@ -73,14 +73,11 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Victoria based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        at <strong className="text-stone-100">Instant Domains</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+	  I'm a San Francisco Bay Area based <strong className="text-stone-100">Data Analyst</strong> with a solid foundation in Higher Education and an interest in the FinTech sector.
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
-        plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
-        <strong className="text-stone-100">Vancouver Island</strong>.
+        In my free time time, you can find me snapping photographs,
+        plucking my guitar, or spending time with my husband and dogs.
       </p>
     </>
   ),
